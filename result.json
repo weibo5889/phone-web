@@ -1,0 +1,1061 @@
+{
+    "html_attributions": [],
+    "next_page_token": "ATplDJaoyCG1oGgzzYRyEzlCzxMpojLWahnVFhPC0ZD-wmxEESoq-gtaQFngiYep-dY6XG6OkM3Nys3rxHrG41wSWJSLveIH5YSHofROleUfSlc4BNLVxcMXzdMnakGtdWulJEEXokOhAqRHLqWWVEJ_t5We-39xjYnHBK_F8QHRVQ9A8errDgtCI8a4m31e5zkbjUy_B1HPZwScmtThP_B_2M4nzIBm3uorxhXnGFSgosA9hQ508TOtbOvY6jxZrGmrDVpLOGhBpibnyMIc6IYd4TBeiBz9Hz5DRl7w2g2K0uq8hP47trc2TI_8hqAFZh1dAtKE5zs01zlCu3qKqP5qxUp6UzY7Ng7fH-Lr-9CXuBS0sIH5uDFnoSYrsRPc9LX7ka1dlZw51fBRioO2W0SCXs-jDoGMpvEB2l3l1IEtNixx0jsUKhBndjA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0693835,
+                    "lng": 121.6613339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.07081012989272,
+                        "lng": 121.6626740298927
+                    },
+                    "southwest": {
+                        "lat": 25.06811047010727,
+                        "lng": 121.6599743701072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "金豐 八寶冬粉/香菇肉羹/汐止美食/小吃/宵夜",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105297110248637173963\">王建富</a>"
+                    ],
+                    "photo_reference": "ATplDJYIO5UNdhYFrfLHc71jmRYNm25pAMxGwoxxPw6ANDc2-pP4N6J79v6aO5o9IhufbNfmXm5HEjWQ0pd7LNTmOk2ho_vM1IKYsff221g7yGnKZhe_2YTPSpfsF5oF2czptDOkAmEBF6b_7kGO6M92A22QF5z4nBGXM6rsJrYSAYoXYGdp",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJlW95jBJTXTQRso5y2WsxMZ4",
+            "plus_code": {
+                "compound_code": "3M96+QG 義民里 新北市汐止區",
+                "global_code": "7QQ33M96+QG"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJlW95jBJTXTQRso5y2WsxMZ4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1046,
+            "vicinity": "中正路83號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0679767,
+                    "lng": 121.6624807
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06933577989272,
+                        "lng": 121.6638205798928
+                    },
+                    "southwest": {
+                        "lat": 25.06663612010728,
+                        "lng": 121.6611209201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "米麥洋廚館",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3926,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112619009643397984991\">洪清輝</a>"
+                    ],
+                    "photo_reference": "ATplDJZCTxfj4mKmk4z8h2Ef60JBOKjUjWlGlXLfEQUmpVW0gC5V1okuwxUwTirsl-nHnf6h3Pf3tl_ube46Mgiin7M5hQkSfW1cZgVaN8ORg-PryN-VhRozqSECI4BQW4CItbMRHa4AnbuA1MC5ipugMXuNUEpq3Vb_LHUurwd5dYq0VQs4",
+                    "width": 2944
+                }
+            ],
+            "place_id": "ChIJ4QpsXw1TXTQRWkezgT938R4",
+            "plus_code": {
+                "compound_code": "3M96+5X 新昌里 新北市汐止區",
+                "global_code": "7QQ33M96+5X"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJ4QpsXw1TXTQRWkezgT938R4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1037,
+            "vicinity": "新昌路46號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.069089,
+                    "lng": 121.661392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.07036122989272,
+                        "lng": 121.6628103298927
+                    },
+                    "southwest": {
+                        "lat": 25.06766157010728,
+                        "lng": 121.6601106701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "站前雞腿達人",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1108,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109225495395964487463\">靜怡</a>"
+                    ],
+                    "photo_reference": "ATplDJboFT72CKwkXecOmCR2fL23kdNIbbAjpokUvg3IJodHWDtZ2ygIHrbGpvnIvd-B9hcmbULkv_DliSylEFon41ccG4FmEpaVbjFTKuWRKK-joszUeCmEZ94EGiqMM7QDRdOmTot7cRPcMRgZ-Ft7EHcVAXjFVtQo9FcxoB2p6XpE6p98",
+                    "width": 1478
+                }
+            ],
+            "place_id": "ChIJufiWEaJTXTQRfMTaSJY0KYI",
+            "plus_code": {
+                "compound_code": "3M96+JH 義民里 新北市汐止區",
+                "global_code": "7QQ33M96+JH"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJufiWEaJTXTQRfMTaSJY0KYI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 152,
+            "vicinity": "大同路二段517號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0697529,
+                    "lng": 121.661782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.07112727989272,
+                        "lng": 121.6630739298927
+                    },
+                    "southwest": {
+                        "lat": 25.06842762010728,
+                        "lng": 121.6603742701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "佳玲越南美食",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1706,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118175419613689828953\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJZZSXIK9KUKAHkyW70LoFFA7JgcuYcr7xuqCHpqhfktIMsCKRhUr5vmln-pcjKDC-oA07TcrzMF-C-vnSZ-yrgJQJ479TE-orSzwD67O79amvrmxUCywvVjxQ4lOS63IK1mBvmbap595wXwDzWm0hVJyrAHgp1ePBPnjY5aAr16KZAf",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJzaTPYhJTXTQRzZe0-YWJVgo",
+            "plus_code": {
+                "compound_code": "3M96+WP 信望里 新北市汐止區",
+                "global_code": "7QQ33M96+WP"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJzaTPYhJTXTQRzZe0-YWJVgo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 83,
+            "vicinity": "中正路65號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.06841,
+                    "lng": 121.661272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06981282989272,
+                        "lng": 121.6625732798927
+                    },
+                    "southwest": {
+                        "lat": 25.06711317010728,
+                        "lng": 121.6598736201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "東日日式炭火燒肉",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108346317961500934919\">Claire Lin</a>"
+                    ],
+                    "photo_reference": "ATplDJayaN8ddlm5WI4aa6iQx3UMgJ5rbK8trli0n7AN_nEjm8HSH85vd_6mf9KoaPCbASiC2tykVDOu9XybQ24P_YNTuXsVEvr4epnFOs4SFxjA2OC2gluynQJetuy7ei5IRvffgTpq1Ah2vRnrgzv_dEXNoTQuCvQ59ZN_dlgwK2B7lEBK",
+                    "width": 4912
+                }
+            ],
+            "place_id": "ChIJi4PTvxJTXTQR1a5Trv4eZZg",
+            "plus_code": {
+                "compound_code": "3M96+9G 信望里 新北市汐止區",
+                "global_code": "7QQ33M96+9G"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJi4PTvxJTXTQR1a5Trv4eZZg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1126,
+            "vicinity": "大同路二段522號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0671301,
+                    "lng": 121.6623615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06845047989272,
+                        "lng": 121.6636748798927
+                    },
+                    "southwest": {
+                        "lat": 25.06575082010728,
+                        "lng": 121.6609752201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "鑫和排骨飯",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112664489829550099351\">旅行家</a>"
+                    ],
+                    "photo_reference": "ATplDJYvjCHblmIFSrOwzIoKL3FpDrgyXk9Do7ORg_6Xc5_mpHiUDPDT6QDOAK5R27lhkuaq5Ab03LoWChA8D14mWo9nhAitLd-mheZ8zDGV6v4c7nCZSXbzm1rw5mkQdnOUoNzd2GQYVrHZH3v35FGUt4-cA1va9o2k6KhRm6C18MpvyQxX",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJdZGyqxJTXTQRd7HmM8azARg",
+            "plus_code": {
+                "compound_code": "3M86+VW 新昌里 新北市汐止區",
+                "global_code": "7QQ33M86+VW"
+            },
+            "price_level": 1,
+            "rating": 3.8,
+            "reference": "ChIJdZGyqxJTXTQRd7HmM8azARg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 246,
+            "vicinity": "新昌路2號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0678787,
+                    "lng": 121.6616592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06925987989272,
+                        "lng": 121.6629750798927
+                    },
+                    "southwest": {
+                        "lat": 25.06656022010728,
+                        "lng": 121.6602754201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "客倌食館熱炒店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1621,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117693862660034205107\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJbokoTWd2-LUwXFW7Uwci28qjguj0FISuOUbl8Mne4KGIhkiAzLBGqwy4YBK4f2VsMHOK1wKPBhOgYkeFOq1rINopUiwsX_4BSRPoBkDUSkFQcCXLTCjBgvbFdSoaNYcFPCiLSIYNW5BO__FKLvFUvzYIuFaVX6qZGcRJu-NqKo1k66",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJRTy8QoFTXTQRPwuKiWPjg9Y",
+            "plus_code": {
+                "compound_code": "3M96+5M 新昌里 新北市汐止區",
+                "global_code": "7QQ33M96+5M"
+            },
+            "rating": 4.4,
+            "reference": "ChIJRTy8QoFTXTQRPwuKiWPjg9Y",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 111,
+            "vicinity": "忠孝東路211巷28號汐止火車站 汐科路上B1"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.069183,
+                    "lng": 121.661602
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.07047147989272,
+                        "lng": 121.6630041298927
+                    },
+                    "southwest": {
+                        "lat": 25.06777182010728,
+                        "lng": 121.6603044701072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "大熊蔬食餐廳",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1108,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114675348565275238443\">駿程</a>"
+                    ],
+                    "photo_reference": "ATplDJa1xjymUX5tBALZN111KpQX5EmNZBCYRVywnRDHkZt15qixvfsvvx88rs5R-ZJ37bmCOvUnXur6GqMoVL3Lu4lmvZSjKoPvwQJEMvxI-nUD2WuDEzzndZV6rNiEWc5DqA6qXMIHvRew-fgCUubA0CTMa9lH6ED4pL6Iz_US3sgTchA5",
+                    "width": 1478
+                }
+            ],
+            "place_id": "ChIJ1XT4jhJTXTQRmwe96qLvitU",
+            "plus_code": {
+                "compound_code": "3M96+MJ 義民里 新北市汐止區",
+                "global_code": "7QQ33M96+MJ"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ1XT4jhJTXTQRmwe96qLvitU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 211,
+            "vicinity": "大同路二段527號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0676721,
+                    "lng": 121.6613856
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06904352989272,
+                        "lng": 121.6627119798927
+                    },
+                    "southwest": {
+                        "lat": 25.06634387010728,
+                        "lng": 121.6600123201072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "轉角小屋",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108352571938832367684\">王有聲</a>"
+                    ],
+                    "photo_reference": "ATplDJYwt2VinE52pykzLjrz0pIdYs60lj2R1cqPFRjiOXNfbxr18yY1c0bLKe0w7VlZuEIPKfRHIK-teVTMCHdvwz5ftAmrKbz9SsgTkZEx2ECWdnRezjrNSuJ6x2vt6khETcGaPNHvAhbPcuZINRT0j5kX6az2pVRCFO5gscnVfaJXdaIy",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJwwZBtxJTXTQRIIlAap_RS70",
+            "plus_code": {
+                "compound_code": "3M96+3H 新昌里 新北市汐止區",
+                "global_code": "7QQ33M96+3H"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJwwZBtxJTXTQRIIlAap_RS70",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 246,
+            "vicinity": "忠孝東路211巷28號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.068649,
+                    "lng": 121.661666
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.07006852989272,
+                        "lng": 121.6629543298927
+                    },
+                    "southwest": {
+                        "lat": 25.06736887010728,
+                        "lng": 121.6602546701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "漢堡王 汐止大同店",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3432,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118245299109734259418\">charley</a>"
+                    ],
+                    "photo_reference": "ATplDJbd8Kx-452NnlUZdX1i6DGjhywbmUTzcOSpUAJfdyx-bab0CwqhVnH5Pfe27KyBdIDA8_mAhBoslGO8y8eqeV1yMwXqJGuID1CUqh0nU3sQQjdNA3F1TDg1Perz26_pq634KjwujGP8r1qkNtREDUI69zia8c9NYLbNQyMoAvKXdNQO",
+                    "width": 4576
+                }
+            ],
+            "place_id": "ChIJPbSflnpTXTQRUXyqrkH9s_U",
+            "plus_code": {
+                "compound_code": "3M96+FM 信望里 新北市汐止區",
+                "global_code": "7QQ33M96+FM"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJPbSflnpTXTQRUXyqrkH9s_U",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 471,
+            "vicinity": "大同路二段540號1樓"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0702651,
+                    "lng": 121.6633783
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.07157797989272,
+                        "lng": 121.6647611798927
+                    },
+                    "southwest": {
+                        "lat": 25.06887832010727,
+                        "lng": 121.6620615201072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "燒鶴一番町 汐止店",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103569966409243128246\">林俊宏</a>"
+                    ],
+                    "photo_reference": "ATplDJaSfOnNvky2WqChcLqxmAfEBfntB0YCvtZbq5b-B9AbvxoSUWarKbMHcEverhftIaTJRJKGpImZaMC662S6x6yYSMCvAwcHyXgkngfbr9ORVlV1EwVtaTMyFriebbq10tsnZ4HZZQLrYHCC9PnrlHg7Vp4VWP2wqKD2qrEGhoKs0m1p",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJvxjReg5TXTQRsossi7GunBY",
+            "plus_code": {
+                "compound_code": "3MC7+49 信望里 新北市汐止區",
+                "global_code": "7QQ33MC7+49"
+            },
+            "rating": 4.8,
+            "reference": "ChIJvxjReg5TXTQRsossi7GunBY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 849,
+            "vicinity": "大同路二段579號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0677499,
+                    "lng": 121.6614674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06911872989272,
+                        "lng": 121.6627965798927
+                    },
+                    "southwest": {
+                        "lat": 25.06641907010727,
+                        "lng": 121.6600969201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "串門",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116096693332988357449\">Delta Lee</a>"
+                    ],
+                    "photo_reference": "ATplDJb6_O3_0w4aABtf105pVZaGRgbexem1ZTnBfZdVdZWL1WcrJx9-KBFGYhHLYGKgk88VeOVl2F-NTRlKwpLh9ZQnug-c1Co7v-ddwgkFZ1hqLlAXg3o6-obRgSD_6alQ9tbG5TWgmjt4YUJsULzboUQq_8aZsBoUj5YQp93joEwKxYyA",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJzzSLcwJTXTQRRBWW2pUuURQ",
+            "plus_code": {
+                "compound_code": "3M96+3H 新昌里 新北市汐止區",
+                "global_code": "7QQ33M96+3H"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJzzSLcwJTXTQRRBWW2pUuURQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 223,
+            "vicinity": "忠孝東路211巷28號汐止火車站旁汐科路上"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0678691,
+                    "lng": 121.6615447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06921222989272,
+                        "lng": 121.6629017798927
+                    },
+                    "southwest": {
+                        "lat": 25.06651257010728,
+                        "lng": 121.6602021201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "古早風味甕仔雞-汐止店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102531227986027148132\">陳柏仰</a>"
+                    ],
+                    "photo_reference": "ATplDJbH8cWm2Dy2ri4Vlq3A7FSKuICPEt5nYZDHKj_gu_7XsXwI-o2UMHznukMdG6HMzzr0iKBNEyC_l6mEw6KJEvX-TRlnUL-PG9dT0vW3u9RoIM732jKJX_DE4oSYq4QOWjkM8XNeZzopSKuWZlw2Sz81y2XT7ACKkOoiml7-nqwq-H11",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJHxowkC9TXTQRnfqNWOTSk0s",
+            "plus_code": {
+                "compound_code": "3M96+4J 新昌里 新北市汐止區",
+                "global_code": "7QQ33M96+4J"
+            },
+            "rating": 4.3,
+            "reference": "ChIJHxowkC9TXTQRnfqNWOTSk0s",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 125,
+            "vicinity": "忠孝東路211巷28號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0664747,
+                    "lng": 121.6587453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06782927989272,
+                        "lng": 121.6600926798927
+                    },
+                    "southwest": {
+                        "lat": 25.06512962010728,
+                        "lng": 121.6573930201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "錦發師日式蔬食",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109408195216938954040\">Darren Su</a>"
+                    ],
+                    "photo_reference": "ATplDJaY5COR4flq2ebHO52VCVLQ5wfC3IFgDMnPqa8NV4rTSk-ATrBotNWjWjYrjICUKP3GshoH-QmkQLwRbJHodtQGx4IEtaMIT2BhTUeX_Mc597XdVWRN_H96v0-FHy9Ty57T5pbkszt3OwAJ-H5QjUDgSww4Aq3uc1ZFz2WOvtfVo2M5",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJldRcwmxTXTQRNfGYvif4bg0",
+            "plus_code": {
+                "compound_code": "3M85+HF 禮門里 新北市汐止區",
+                "global_code": "7QQ33M85+HF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJldRcwmxTXTQRNfGYvif4bg0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 73,
+            "vicinity": "秀豐市場100號攤(近秀豐路"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0682694,
+                    "lng": 121.6631475
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06964982989272,
+                        "lng": 121.6645307798927
+                    },
+                    "southwest": {
+                        "lat": 25.06695017010728,
+                        "lng": 121.6618311201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "真粥到",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116290764247755454047\">Lisa</a>"
+                    ],
+                    "photo_reference": "ATplDJZxNgTGenzp8WKL9uHqp5uIH1ccbj9WmaUmk8YV4plmK1jiWfjZF0m_qilupsKWZUggPOkJw9OqMdLn4utaMKREx6VfTFqCsWwsv0wKJixtZERcVpyjxnGlg4gnj2X-plaEf-dm6ECOfk4HAJNMIJBDwFQiQ4VXOyQhfngv5k_2381T",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJVVVVVQxTXTQRvw5Q1J1tnVM",
+            "plus_code": {
+                "compound_code": "3M97+87 新昌里 新北市汐止區",
+                "global_code": "7QQ33M97+87"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJVVVVVQxTXTQRvw5Q1J1tnVM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 474,
+            "vicinity": "南昌街22號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0679042,
+                    "lng": 121.6624094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06926847989272,
+                        "lng": 121.6637437798927
+                    },
+                    "southwest": {
+                        "lat": 25.06656882010727,
+                        "lng": 121.6610441201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "車頭邊鳳梨飯",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104105884264894085992\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJaM4bbTUbE12-1rL_yEhWSmmQkc7Xe9dHbx7zQZb7lnp2N3HCwQvxdF8-jzrFIijfp16LeUOYPickyfgfHChBbThjfqiXtB8Ys_T5_H-xYUh55rQflYNlTbQ9dlq85nWMQcMIBfDuS7DaK-Bom8tKIkAOq4y0h_9ABkp-3M2PZACE6f",
+                    "width": 5333
+                }
+            ],
+            "place_id": "ChIJn-LQoBJTXTQRYz4tPyKzVDU",
+            "plus_code": {
+                "compound_code": "3M96+5X 新昌里 新北市汐止區",
+                "global_code": "7QQ33M96+5X"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJn-LQoBJTXTQRYz4tPyKzVDU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 569,
+            "vicinity": "忠孝東路255巷10號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0680502,
+                    "lng": 121.6625222
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06938907989272,
+                        "lng": 121.6638825798927
+                    },
+                    "southwest": {
+                        "lat": 25.06668942010727,
+                        "lng": 121.6611829201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "丼滋丼蓋飯專賣店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118105919465029870892\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJaswtiBVE59Gw4F7sxe-tGmoDLdXMv2LVJJPFryBcvvcmyBbv1MyJy3ocbmM5tpcjeEiEH8M5xF88Si9o7DK2pki0nMZodNIcwXrueUOGIrpMBsd9FF9GI3akVVvxjVv_vStEbdzWmEQ3ttiooNuKe8HZDjy2jvYz1UHhBpFh5iEX8",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJnSZ1oBJTXTQRKfJZkRuGFJg",
+            "plus_code": {
+                "compound_code": "3M97+62 汐止區 新北市",
+                "global_code": "7QQ33M97+62"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJnSZ1oBJTXTQRKfJZkRuGFJg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 271,
+            "vicinity": "新昌路48號1樓"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0692747,
+                    "lng": 121.6632843
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.07064917989272,
+                        "lng": 121.6646080298927
+                    },
+                    "southwest": {
+                        "lat": 25.06794952010727,
+                        "lng": 121.6619083701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "常滿樓",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109436906680718026455\">樊丕緒</a>"
+                    ],
+                    "photo_reference": "ATplDJYy2vpHp-DhatTOfZmp_tVm_RBHKy_yRvui_SsV6H3GB4mfErZcZvuNR4yebYde-bqQFnWRiC220EKp4vIEq0ja0f2JDoa78YR8AI1iFtVqvRqAEBmPdxcVa2rBVF4o_kAy44k1G7J19yUj7_k8_vmDMelFVbaA3lErctZqGEYS8NrY",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJczondg1TXTQRJ7L1ttfWYoY",
+            "plus_code": {
+                "compound_code": "3M97+P8 新昌里 新北市汐止區",
+                "global_code": "7QQ33M97+P8"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJczondg1TXTQRJ7L1ttfWYoY",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 1313,
+            "vicinity": "南昌街27號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0683708,
+                    "lng": 121.6639251
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06975172989272,
+                        "lng": 121.6652389798927
+                    },
+                    "southwest": {
+                        "lat": 25.06705207010728,
+                        "lng": 121.6625393201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "潮味決‧湯滷專門店 汐止忠孝分社",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110951843728656392749\">LIU CHARLIE</a>"
+                    ],
+                    "photo_reference": "ATplDJYhzzZwaNkwG8d1d2OHcyiVIO2frJivgbJIkLcxen0-C3igGoo5HH5wjYcx4B1SS6qnDHaFFRhZM6Vp_bz_SwHw8rfxDvnZcq44GetQqN-qCuft2WC1505MloR1U6Ezt_GlP5bvBmiRKLvnVA_WjQdB-IbriVl9rL7MQFHKG_cNxwla",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJmQXp7QBTXTQRHzlmCuLsDqw",
+            "plus_code": {
+                "compound_code": "3M97+8H 新昌里 新北市汐止區",
+                "global_code": "7QQ33M97+8H"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJmQXp7QBTXTQRHzlmCuLsDqw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 320,
+            "vicinity": "忠孝東路288號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 25.0671887,
+                    "lng": 121.6631339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 25.06850147989272,
+                        "lng": 121.6643989298927
+                    },
+                    "southwest": {
+                        "lat": 25.06580182010728,
+                        "lng": 121.6616992701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "泰湘味美食坊",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106038611211009359475\">A Google User</a>"
+                    ],
+                    "photo_reference": "ATplDJa36juJFbhVauMdE0XXe7j84KkzfYBW1YGtYgqZ_U2WcmpPsIbhop_6F6kxSDOmEMq5ldaX5fK68K29_LPaAv3zHW0Y7dzmYnyv_4wPThFZR3yZI3CTuz-hjK4KzHs0WcoXQ09iLmEit4f8zw1yB9_kVoKaLAtTY0LqSu2tgFK4IYRw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ2d4a3I9TXTQR70emUdxKHjQ",
+            "plus_code": {
+                "compound_code": "3M87+V7 新昌里 新北市汐止區",
+                "global_code": "7QQ33M87+V7"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ2d4a3I9TXTQR70emUdxKHjQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "point_of_interest",
+                "food",
+                "establishment"
+            ],
+            "user_ratings_total": 568,
+            "vicinity": "新台五路二段41巷22號"
+        }
+    ],
+    "status": "OK"
+}
