@@ -1,8 +1,9 @@
 import googlemaps
 import pandas
 import json 
+import os
 
-api_key = "AIzaSyBcGIIbYfe2zC_s-75IaqBOih7b4HXvGZ0"
+api_key = os.environ.get('MAP_token')
 gmaps = googlemaps.Client(key=api_key)
 
 #取得台南火車站的地理編碼
